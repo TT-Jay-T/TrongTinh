@@ -132,6 +132,7 @@ body{
 .card__body{
     width: 100%;
     margin-top: 15px;
+    hewight: 50px;
 }
 .card__body--accout{
     width: 100%;
@@ -145,8 +146,7 @@ body{
 }
 
 .button__accout:hover{
-    width: 35px;
-    /* box-shadow: var(--outer-shadow-dark-o); */
+    width: 50px;
 }
 .button__accout img{
     width: 100%;
