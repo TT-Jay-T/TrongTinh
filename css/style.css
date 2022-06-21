@@ -12,9 +12,12 @@ html {
 
 body{
     background-image: url("./image/Untitled-1.png");
-    background-size: cover;
+/*     background-size: cover;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: right; */
+    background-size: inherit;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .profile {
