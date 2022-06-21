@@ -60,9 +60,11 @@ body{
 
 .card {
     position: fixed;
-    max-width: 350px;
+/*     max-width: 350px;
     max-height: 700px;
-    height: fit-content;
+    height: fit-content; */
+    max-width: 350px;
+    max-height: 400px;
     display: flex;
     margin: auto;
     top: 0;
